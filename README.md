@@ -20,3 +20,5 @@ Not only did we learn new coding skills, but also we felt the deep connection of
 
 ## What's next for Winter made easier
  Due to the time constraint, we were not able to fully establish the map and fully integrate the submission forms with the real time updates.
+## Link to Devpost:
+[link](https://devpost.com/software/winter-made-easier/joins/8VcaVBVgkYuCBhuGtAtBbA)
